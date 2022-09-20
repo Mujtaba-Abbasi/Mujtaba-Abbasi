@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mujtaba-Abbasi
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python, Dart, C#, Asp.net and Computer Networks.
+- 🌱 I am a MERN stack developer.
 - 💞️ I’m looking for opportunities to learn new stuff.
 - 📫 Here is my email in case you want to reach out : gmabbasi92@gmail.com.
 
