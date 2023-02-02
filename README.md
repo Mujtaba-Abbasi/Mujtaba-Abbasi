@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I am a MERN stack developer.
 - 💞️ I’m looking for opportunities to learn new stuff.
-- 📫 Here is my email in case you want to reach out : gmabbasi92@gmail.com.
+
 
 <!---
 Mujtaba-Abbasi/Mujtaba-Abbasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
