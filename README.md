@@ -21,7 +21,3 @@ I'm always open to collaborating on interesting projects and contributing to mea
 
 ## 📫 How to Reach Me
 - LinkedIn: [Mujtaba Abbasi](https://www.linkedin.com/in/mujtaba-dev/)
-
-## 🌟 Fun Fact
-When I'm not coding, you'll probably find me exploring new hiking trails or experimenting with new recipes in the kitchen. I believe that a healthy work-life balance fuels creativity and productivity.
-
