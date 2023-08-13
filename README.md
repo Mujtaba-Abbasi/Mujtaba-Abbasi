@@ -6,7 +6,7 @@ I'm a passionate MERN stack developer with a keen interest in programming and a 
 ## ⚡ Tech Stack
 - Front-end: React.js, HTML5, CSS3, JavaScript
 - Back-end: Node.js, Express.js
-- Database: MongoDB, MySQL
+- Database: MongoDB
 - Deployment: Heroku, Netlify
 - Version Control: Git, GitHub
 
