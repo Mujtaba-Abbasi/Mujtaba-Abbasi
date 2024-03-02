@@ -1,23 +1,39 @@
-# Hi there, I'm Mujtaba Abbasi! 👋
+## Hi 👋! My name is Ghulam Mujtaba <br/> I'm a full stack developer from Pakistan
 
-## 🚀 About Me
-I'm a passionate MERN stack developer with a keen interest in programming and a constant thirst for learning new technologies. I enjoy turning complex problems into elegant and efficient solutions. Building user-friendly web applications that leave a positive impact is what drives me.
+###
 
-## ⚡ Tech Stack
-- Front-end: React.js, HTML5, CSS3, JavaScript
-- Back-end: Node.js, Express.js
-- Database: MongoDB
-- Deployment: Heroku, Netlify
-- Version Control: Git, GitHub
+  <p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Mujtaba-Abbasi&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Mujtaba-Abbasi&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+<!--
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+</div> -->
 
-## 🔭 What I'm Currently Working On
-I'm currently sharpening my skills in full-stack development and exploring advanced concepts in React.js and Node.js. I'm also focusing on building robust APIs and improving my problem-solving abilities.
+## My Skills
 
-## 🌱 What I'm Learning
-I'm actively learning new technologies and frameworks to expand my skill set. Currently, I'm diving deep into TypeScript, GraphQL, and Docker. I believe that continuous learning is the key to staying relevant in the ever-evolving tech industry.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,firebase,aws,npm,netlify,mongodb,postgres,nestjs,postman,github,git,prisma,redux,linux,materialui,tailwind,vercel,vite,vscode,webpack,graphql,html,css,bootstrap,scss)](https://skillicons.dev)
 
-## 🤝 Looking to Collaborate
-I'm always open to collaborating on interesting projects and contributing to meaningful initiatives. If you're working on something exciting or need assistance, feel free to reach out. Let's connect and create something awesome together!
+###
 
-## 📫 How to Reach Me
-- LinkedIn: [Mujtaba Abbasi](https://www.linkedin.com/in/mujtaba-dev/)
+<br clear="both">
+
+<!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
+
+###
