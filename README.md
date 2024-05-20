@@ -4,7 +4,7 @@
 
   <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Mujtaba-Abbasi&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Mujtaba-Abbasi&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+<!--   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Mujtaba-Abbasi&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" /> -->
 <!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
